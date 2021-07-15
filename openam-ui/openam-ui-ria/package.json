@@ -20,7 +20,7 @@
     "babel-preset-es2015": "6.18.0",
     "babel-preset-react": "6.16.0",
     "chai": "3.5.0",
-    "cross-env": "3.1.3",
+    "cross-env": "7.0.3",
     "eslint-config-forgerock": "file:../node_packages/eslint-config-forgerock-2.0.1.tgz",
     "eslint-formatter-warning-summary": "1.0.1",
     "grunt": "1.0.1",
