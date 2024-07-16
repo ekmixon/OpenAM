@@ -44,7 +44,7 @@
     "karma-nyan-reporter": "0.2.4",
     "karma-phantomjs-launcher": "1.0.2",
     "karma-requirejs": "1.1.0",
-    "less-plugin-clean-css": "1.5.1",
+    "less-plugin-clean-css": "1.6.0",
     "lodash": "4.17.21",
     "mocha": "3.2.0",
     "phantomjs-prebuilt": "2.1.13",
